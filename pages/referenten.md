@@ -13,11 +13,17 @@ header: no
 
 **Stephan Leupold**, Diplom-Theologe, Berufsschullehrer, seit 20 Jahren Leiter für Kreistanz und Bewegung in christlicher Spiritualität, Referent für Weiterbildungen, Lehrauftrag „Tanz in der Gemeindearbeit“ an der Evangelischen Fachhochschule Nürnberg. Er ist seit Jahren Referent bei unseren Reisen nach [Opatja](/impressionen/opatija/) und [Venedig](/impressionen/venedig/).
 
+<br/><br/>
+<br/><br/>
+
 ![Christa Thoma](/images/christa_thoma.jpg)
 
 > Yoga tut jedem gut. Das ist meine Erfahrung in all den Jahren. Es geht mir um Achtsamkeit, Körperwahrnehmung, Kennenlernen der eigenen Möglichkeiten und Grenzen.
 
 **Christa Thoma**, Erzieherin, Heilpraktikerin, seit 20 Jahren Yogalehrerin. Sie ist Referentin für Yoga bei unseren Elba-Reisen.
+
+<br/><br/>
+<br/><br/>
 
 ![Michaela Schillinger](/images/michaela_schillinger.jpg)
 

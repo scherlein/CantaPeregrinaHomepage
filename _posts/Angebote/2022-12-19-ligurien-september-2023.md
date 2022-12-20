@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "NEU! Traumreise zu Pfingsten an die ligurische Riviera vom So. 28. Mai bis So. 4.Juni 2023"
-title: "Ligurien Pfingsten 2023"
-teaser: "Tanzen, träumen, Neues entdecken mit Stephan Leupold"
+subheadline: "“Die Seele baumeln lassen“ an der ligurischen Riviera vom 10. bis 17. September 2023"
+title: "Ligurien September 2023"
+teaser: "Meditatives Tanzen, Qi Gong, Wandern, Baden und ein wenig Italienisch für den Urlaub lernen"
 categories:
   - angebote
 category:
@@ -16,7 +16,6 @@ tags:
   - Wandern
   - Meer
   - Baden
-  - Qi Gong
   - Italienisch für den Urlaub
 #
 # Styling
@@ -39,14 +38,14 @@ Eine Urlaubswoche der besonderen Art erleben:
 **Urlaub für Körper, Geist und Seele:** An diesem schönen Fleckchen Erde kann man sich rundherum wohl fühlen. Das Hotel lädt mit eigenem Schwimmbad zur Erfrischung und zum Relaxen ein. Es verwöhnt seine Gäste mit einer ausgezeichneten italienischen Küche und großer Herzlichkeit. Verschiedene Angebote (in deutsch), an denen Sie nach Belieben teilnehmen können, runden das Programm ab: Tageseinstieg mit Qi Gong, Kreistänze, mal schwungvoll, mal meditativ, vormittags eine Stunde Italienisch für den Urlaub. Auf kleinen Wanderungen lernen wir die Umgebung kennen.
 
 **Im Reisepreis enthalten:** 7 Übernachtungen mit Frühstück und **Vollpension** mit Wasser und Tischwein, Kursgebühren, **Hin- und Rückreise**, Reiseleitung, Reisepreissicherungsschein (Fahrten mit der Bahn oder mit Linienbussen sind nicht enthalten).
-**Die Hin- und Rückreise** ab/ bis München (Nähe Hbf) im modernen Reisebus direkt zu unserem Quartier **ist inclusive**. Der genaue Abfahrtsort und die Uhrzeit am Sonntagmorgen, den 28.05.2023 werden rechtzeitig bekanntgegeben. Die Rückreise findet am Sonntag, den 04.06.2023 ebenfalls untertags bis München statt.
-Mindestteilnehmerzahl 18, Höchstteilnehmerzahl ca. 27. Änderungen im Programm vorbehalten.
+**Die Hin- und Rückreise** ab/ bis München (Nähe Hbf) im modernen Reisebus direkt zu unserem Quartier **ist inclusive**. Der genaue Abfahrtsort und die Uhrzeit am Sonntagmorgen, den 10.09.2023 werden rechtzeitig bekanntgegeben. Die Rückreise findet am Sonntag, den 17.09.2023 ebenfalls untertags bis München statt.
+Mindestteilnehmerzahl 20, Höchstteilnehmerzahl ca. 27. Änderungen im Programm vorbehalten.
 
 **Preis:** 989,00 Euro im DZ mit Du/Bad u. WC, mit Meerblick 49,00 Euro p. P. Aufpreis, EZ zur Land-/ Straßenseite ohne Aufpreis, EZ mit Meerblick 105,00 Euro, DZ zur Alleinbenutzung 150,00 Euro Aufpreis, alle Zimmer nach Verfügbarkeit. Bei der Anmeldung ist eine Anzahlung von 150,00 Euro zu überweisen.
 
-Tanzanleitung durch [Stephan Leupold](/referenten/), Diplom-Theologe, Berufsschullehrer, seit über 25 Jahren Leiter für Kreistanz und Bewegung in christlicher Spiritualität, Referent für Weiterbildungen.
+Tanzanleitung durch [Michaela Schillinger](/referenten/) und [Rosalie Scherlein](/ueber-uns/), beide sind Leiterinnen für meditativen und sakralen Tanz.
 
-[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurien_Pfingsten_2023.pdf)
+[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurien_September_2023.pdf)
 
 [Hier gelangen Sie zum Anmeldeformular.](/anmeldung/)
 
@@ -55,3 +54,4 @@ Unter dem Punkt „Wichtige Informationen“ hier auf dieser Website werden Sie 
 
 Änderungen vorbehalten
 </small></body>
+

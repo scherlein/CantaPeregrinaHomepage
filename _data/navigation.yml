@@ -20,22 +20,22 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Elba 2022"
-    url: "/angebote/elba-2022/"
   - title: "Venedig 2023"
     url: "/angebote/venedig-2023/"
   - title: "Ligurien Pfingsten 2023"
     url: "/angebote/ligurien-pfingsten-2023/"
-  - title: "Opatija 2022"
-    url: "/angebote/opatija-2022/"
+  - title: "Ligurien September 2023"
+    url: "/angebote/ligurien-september-2023/"
+  - title: "Opatija 2023"
+    url: "/angebote/opatija-2023/"
 
 - title: Impressionen
   url: "/impressionen/"
   side: left
   dropdown:
-  - title: "Ligurien 2013 bis 2021"
+  - title: "Ligurien 2013 bis 2022"
     url: "/impressionen/ligurien/"
-  - title: "Opatija 2012 bis 2021"
+  - title: "Opatija 2012 bis 2022"
     url: "/impressionen/opatija/"
   - title: "Venedig 2014 bis 2021"
     url: "/impressionen/venedig/"
