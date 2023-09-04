@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "“Die Seele baumeln lassen“ an der ligurischen Riviera vom 10. bis 17. September 2023"
+subheadline: "“Die Seele baumeln lassen“ an der ligurischen Riviera vom 10. bis 17. September 2023 - AUSGEBUCHT"
 title: "Ligurien September 2023"
 teaser: "Meditatives Tanzen, Qi Gong, Wandern, Baden und ein wenig Italienisch für den Urlaub lernen"
 categories:
