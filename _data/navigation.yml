@@ -20,8 +20,8 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Venedig 2023"
-    url: "/angebote/venedig-2023/"
+  - title: "Venedig 2024"
+    url: "/angebote/venedig-2024/"
   - title: "Ligurien Pfingsten 2023"
     url: "/angebote/ligurien-pfingsten-2023/"
   - title: "Venedig Cavallino 2023"

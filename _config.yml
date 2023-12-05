@@ -18,7 +18,7 @@ description: 'Singen, Pilgern und mehr im Urlaub - Kraftquellen für Körper, Ge
 #TODO
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Diese Homepage wurde von <a href="https://de.linkedin.com/in/barbara-scherlein-7420b4133">Barbara</a> mit <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> und <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> erstellt.</p>'
+credits: '<p>Diese Homepage wurde mit <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> und <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> erstellt.</p>'
 
 # Main author of the website
 # See > authors.yml
