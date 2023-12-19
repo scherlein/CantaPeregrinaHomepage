@@ -15,3 +15,13 @@ Im interaktiven Modus von sftp:
 ```
 put -r <local path>/_site/* CantaPeregrina/
 ```
+
+# Contributing
+## Updating rbenv on Ubuntu
+rbenv is installed per user, so it often is installed directly through git, not using a packet manager like apt-get. To update it, git pull in its directory and additionally within its `/plugins/ruby-build` subdirectory, and restart the shell to apply changes.
+## Updating ruby version
+```
+rbenv install <version>
+rbenv global <version>
+```
+## 

@@ -59,6 +59,7 @@ GEM
       faraday (>= 0.17.3, < 3)
 
 PLATFORMS
+  ruby
   x86_64-darwin-20
 
 DEPENDENCIES
@@ -69,6 +70,9 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
+
+RUBY VERSION
+   ruby 2.7.7p221
 
 BUNDLED WITH
    2.4.22
