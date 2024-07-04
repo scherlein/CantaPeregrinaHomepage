@@ -26,7 +26,7 @@ author: Rosi
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #TODO
-url: 'http://www.canta-peregrina.de'
+url: 'https://www.canta-peregrina.de'
 #url: 'http://127.0.0.1:4000'
 baseurl: ''
 
