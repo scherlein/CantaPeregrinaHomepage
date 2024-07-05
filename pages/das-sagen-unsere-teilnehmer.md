@@ -7,6 +7,31 @@ permalink: "/das-sagen-unsere-teilnehmer/"
 header:
     image_fullwidth: "scherleinopatija4.jpg"
 ---
+> Guten Morgen ihr Lieben, ich war ja das erste Mal dabei und ich möchte mich für Euer Gesamtpaket bedanken. Soviel Wissen und soviel Fürsorge zu allem anderen. Und die Kraft der Kreistänze als Mittelpunkt. Ich bin gestärkt zurück ... gekommen."
+
+Vera aus München zu Ischia 2024
+<br><br><br>
+
+> Ich möchte euch auf diesem Weg noch meinen allerherzlichsten Dank für die wunderbare Reise
+aussprechen. Es war einfach nur traumhaft, supi, megaschön. Alles, was für mich zu einem
+perfekten Urlaub dazugehört: Sonne, Meer, Thermalwasser, gutes Essen, Qigong, Musik,
+Gemeinschaft, Lachen und Fröhlichsein, Unbeschwertheit, tolle Reisetruppe, traumhafte Plätze,
+Natur, Botanik, Freiraum, leckerstes Eis, perfekte Orga, "Rundum-Sorglospaket" und absolut tolle
+Reisebegleiter und natürlich Tanzen, Tanzen, Tanzen an den schönsten Plätzen der Insel :)))))  
+So konnte ich mich wunderbar erholen und Ischia ist jetzt meine Trauminsel.
+
+Christine aus Regensburg zu Ischia 2024
+<br><br><br>
+
+> Jetzt ist schon wieder einige Zeit vergangen, seit wir aus Ischia zurückgekehrt sind
+und ich möchte mich noch einmal bei Euch bedanken, dass Ihr diese wunderbare Reise
+organisiert habt.  
+Die Insel ist wunderschön und ich habe die Tage sehr genossen.  
+Einzig die Anreise und Abreise waren etwas anstrengend...aber es hat sich gelohnt!
+
+Christa aus München zu Ischia 2024
+<br><br><br>
+
 > Meine Seele baumelt auch noch nach einer Woche zurück im Alltag! Ein traumhafter Urlaub mit Langzeitwirkung, entspannte und lustige Reiseleiter/innen, ausgesprochen unkomplizierte Miturlauber/innen, super Wetter, hervorragendes und reichliches Essen und trinken - was will Frau/Mann mehr? Vielen herzlichen Dank euch allen – es war eine wirklich erholsame Zeit – das spürt man erst richtig im Nachhinein.
 
 Birgitta aus dem Allgäu
