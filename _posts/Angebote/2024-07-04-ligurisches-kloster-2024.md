@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Neu im Programm: “Danket und feiert das Leben“ - Tanzreise an die ligurische Küste mit Franziskanerbruder Georg Schmaußer 29.9. bis 5.10."
+subheadline: "Neu im Programm: “Danket und feiert das Leben“ - Tanzreise an die ligurische Küste mit Franziskanerbruder Georg Schmaußer 29.9. bis 5.10. - <strong>WARTELISTE</strong>"
 title: "Ligurisches Kloster 2024"
 teaser: "Den Sommer ausklingen lassen an der ligurischen Levante-Küste im Geist von San Francesco, rund um seinen Namenstag, dazu laden wir ein. Zu unserem Motto für diese Tage „Danket und feiert das Leben!“ wollen wir uns inspirieren lassen von ihm, dem Bruder „Immerfroh“ und wer könnte ihn uns in Erzählungen, Tanz und Liedern besser näher bringen als Bruder Georg?"
 categories:
