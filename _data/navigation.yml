@@ -20,8 +20,10 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Venedig 2024"
-    url: "/angebote/venedig-2024/"
+  - title: "Tanzreisen 2025"
+    url: "/angebote/tanzreisen-2025/"
+  - title: "Venedig 2025"
+    url: "/angebote/venedig-2025/"
   - title: "Ischia 2024"
     url: "/angebote/ischia-2024/"
   - title: "Venedig Cavallino 2024"
