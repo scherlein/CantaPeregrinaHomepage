@@ -20,20 +20,16 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Tanzreisen 2025"
-    url: "/angebote/tanzreisen-2025/"
   - title: "Venedig 2025"
     url: "/angebote/venedig-2025/"
-  - title: "Ischia 2024"
-    url: "/angebote/ischia-2024/"
-  - title: "Venedig Cavallino 2024"
-    url: "/angebote/venedig-cavallino-2024/"
-  - title: "Ligurien 2024"
-    url: "/angebote/ligurien-2024/"
-  - title: "Ligurisches Kloster 2024"
-    url: "/angebote/ligurisches-kloster-2024/"
-  - title: "Opatija 2024"
-    url: "/angebote/opatija-2024/"
+  - title: "Ischia 2025"
+    url: "/angebote/ischia-2025/"
+  - title: "Ligurien Pfingsten 2025"
+    url: "/angebote/ligurien-pfingsten-2025/"
+  - title: "Ligurien September 2025"
+    url: "/angebote/ligurien-september-2025/"
+  - title: "Opatija 2025"
+    url: "/angebote/opatija-2025/"
 
 - title: Impressionen
   url: "/impressionen/"
