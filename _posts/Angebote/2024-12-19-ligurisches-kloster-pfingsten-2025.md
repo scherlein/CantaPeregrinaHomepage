@@ -44,3 +44,7 @@ Die **Hin- und Rückreise** ab/bis München im modernen Reisebus direkt zu unser
 [Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurisches_Kloster_Pfingsten_2025.pdf)
 
 Das Anmeldeformular kann [hier](/anmeldung/) heruntergeladen oder bei uns [persönlich](/kontakt/) angefordert werden.
+
+<body><small>
+	Unter dem Punkt „Wichtige Informationen“ hier auf dieser Website werden Sie über Ihre Rechte als Reisender sowie die Themen Versicherungen und eingeschränkte Mobilität informiert und unter dem Punkt „Datenschutz“ erhalten Sie Informationen zur Verarbeitung Ihrer personenbezogenen Daten. Die Reise ist für Personen mit eingeschränkter Mobilität nicht geeignet. Für die Einreise ist ein gültiger Reisepass oder Personalausweis mitzuführen.
+</small></body>
