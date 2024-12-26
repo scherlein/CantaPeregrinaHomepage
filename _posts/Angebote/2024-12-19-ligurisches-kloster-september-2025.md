@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "“Danket und feiert das Leben“ - Tanzreise an die ligurische Küste mit Franziskanerbruder Georg Schmaußer 7 Tage vom 31. August bis 7. September 2025"
-title: "Ligurien September 2025"
+title: "Ligurisches Kloster September 2025"
 teaser: "Den Sommer im Süden in vollen Zügen genießen an der ligurischen Levante-Küste im Geist von San Francesco, dazu laden wir ein. Zu unserem Motto für diese Tage „Danket und feiert das Leben!“ wollen wir uns inspirieren lassen durch die Tänze, Erzählungen und Lieder von Bruder Georg."
 categories:
   - angebote
@@ -39,6 +39,6 @@ Die **Hin- und Rückreise** ab/bis München im modernen Reisebus direkt zu unser
 
 Tanzanleitung durch den bekannten Franziskanerbruder Georg Schmaußer vom Kloster Dietfurth, der seit vielen Jahren als Ausbilder und Referent für meditativen und sakralen Tanz tätig ist.
 
-[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurien_September_2025.pdf)
+[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurisches_Kloster_September_2025.pdf)
 
 Das Anmeldeformular kann [hier](/anmeldung/) heruntergeladen oder bei uns [persönlich](/kontakt/) angefordert werden.

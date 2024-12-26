@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Neu: Pfingst -Tanzreise Tanzen, Träumen, Tiefe spüren mit Stephan Leupold 8 Tage vom 14. bis 21. Juni 2025"
-title: "Ligurien Pfingsten 2025"
+title: "Ligurisches Kloster Pfingsten 2025"
 teaser: "Sommerliche Sonne und Wärme spüren an der ligurischen Levante-Küste - dort, wo das Herz höher schlägt"
 categories:
   - angebote
@@ -41,6 +41,6 @@ Die **Hin- und Rückreise** ab/bis München im modernen Reisebus direkt zu unser
 
 **Preis (mit voller Verpflegung und Busfahrt!)**: 1.044,00 Euro p. Person im DZ mit Du/Bad u. WC, EZ-Zuschlag 105,00 Euro, Zimmer mit Meerblick 42,00 Euro Aufpreis pro Person, alle Zimmer nach Verfügbarkeit. Bei der Anmeldung ist eine Anzahlung von 150,00 Euro zu überweisen. Daraufhin erhalten Sie die Reisebestätigung mit dem Reisepreissicherungsschein. Mindestteilnehmerzahl 25, Höchstteilnehmerzahl ca. 30. Änderungen vorbehalten.
 
-[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurien_Pfingsten_2025.pdf)
+[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurisches_Kloster_Pfingsten_2025.pdf)
 
 Das Anmeldeformular kann [hier](/anmeldung/) heruntergeladen oder bei uns [persönlich](/kontakt/) angefordert werden.
