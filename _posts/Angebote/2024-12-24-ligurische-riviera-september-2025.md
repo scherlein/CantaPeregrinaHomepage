@@ -47,7 +47,7 @@ Bei der Anmeldung ist eine Anzahlung von 150,00 Euro zu überweisen.
 
 Tanzanleitung durch [Michaela Schillinger](/referenten/) und [Rosalie Scherlein](/ueber-uns/), beide sind Leiterinnen für meditativen und sakralen Tanz.
 
-[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurien_2024.pdf)
+[Hier gibt es den Flyer zum Download.](/assets/downloads/Ligurische_Riviera_2025.pdf)
 
 [Hier gelangen Sie zum Anmeldeformular.](/anmeldung/)
 
