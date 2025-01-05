@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "“Die Seele baumeln lassen“ an der ligurischen Riviera - 8 Tage vom So. 7. bis So. 14. September 2025"
+subheadline: "“Die Seele baumeln lassen“ an der ligurischen Riviera - 8 Tage vom So. 7. bis So. 14. September 2025 - <strong>AUSGEBUCHT / WARTELISTE</strong>"
 title: "Ligurische Riviera 2025"
 teaser: "Meditatives Tanzen, Qi Gong, Wandern, Baden und ein wenig Italienisch für den Urlaub lernen"
 categories:
