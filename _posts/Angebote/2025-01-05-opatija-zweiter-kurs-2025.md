@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Natur und Spiritualität erleben - Du führst uns ins Weite - meditatives Tanzen an der kroatischen Riviera in Opatija „Atemholen für Körper, Geist und Seele“ 12. bis 17. Oktober 2025 - 6 Tage genießen!  - <strong>AUSGEBUCHT</strong>"
-title: "Opatija 2025"
-teaser: "Dieser Kurs findet heuer bereits Mitte Oktober statt!
+subheadline: "Zweiter Kurs 2025! Natur und Spiritualität erleben - Du führst uns ins Weite - meditatives Tanzen an der kroatischen Riviera in Opatija „Atemholen für Körper, Geist und Seele“ 17. bis 22. Oktober 2025 - 6 Tage genießen!"
+title: "Opatija zweiter Kurs 2025"
+teaser: "Wegen der großen Nachfrage bieten wir diesen 2. Kurs im Anschluß an den ersten an!
 Er ist seit 2012 ein Dauerbrenner! Warum? Sehen Sie selbst!"
 categories:
   - angebote
@@ -25,8 +25,6 @@ image:
     homepage: scherleinopatija11-home.JPG
 #    caption:  
 ---
-
-Aktuell: Dieser Kurs ist bereits **ausgebucht**! Wegen der großen Nachfrage bieten wir [einen 2. Kurs im Anschluß](/angebote/opatija-zweiter-kurs-2025/) an den ersten an!
 
 **Tanzen**! Zur Mitte kommen. Tiefe und Leichtigkeit erleben. Tanzen! Spiritualität und Gebet in Bewegung. Tanzen! Das Leben tanzen in Kreistänzen verschiedener Kulturen. Tanzen, ruhig und auch mal schwungvoll! Erleben Sie die Freude des Augenblicks in tragender Gemeinschaft! Wir werden uns täglich ca. drei bis vier Stunden tanzend in unsere Mitte einschwingen. Darüber hinaus bieten wir Ihnen auch Morgenimpulse, Qi Gong und fakultativ Ausflüge an.
 Vorkenntnisse sind nicht erforderlich.
@@ -48,7 +46,7 @@ Tanzanleitung durch [Stephan Leupold](/referenten/), Diplom-Theologe, Berufsschu
 
 Werfen Sie auch einen Blick auf die Bilder unserer früheren [Opatija-Reisen](/impressionen/opatija/)!
 
-**Kursgebühr** inklusive Tanzanleitung und Reiseleitung, 5 x Übernachtung im Doppelzimmer mit Du/Bad, WC und Balkon, grandioses Frühstück und Vier-Gänge-Menü am Abend im 4-Sterne-Wellness-Hotel am Meer, incl. Reisepreis-Sicherungsschein p. P. zum Preis von 949,00 Euro im DZ mit Balkon ohne Meerblick p. P/ mit Meerblick 1.060,00 Euro, kleines Einzelzimmer ohne Balkon und ohne Meerblick zum Preis von 949,00 Euro (auf Anfrage, sehr begrenzt), DZ in Alleinbelegung mit Balkon ohne Meerblick 1.115,00 Euro/ mit Meerblick 1.220,00 Euro.
+**Kursgebühr** inklusive Tanzanleitung und Reiseleitung, 5 x Übernachtung im Doppelzimmer mit Du/Bad, WC und Balkon, grandioses Frühstück und Vier-Gänge-Menü am Abend im 4-Sterne-Wellness-Hotel am Meer, incl. Reisepreis-Sicherungsschein p. P. zum Preis von 949,00 Euro im DZ mit Balkon ohne Meerblick p. P/ mit Meerblick 1.060,00 Euro, DZ in Alleinbelegung mit Balkon ohne Meerblick 1.115,00 Euro/ mit Meerblick 1.220,00 Euro.
 
 Zur Anreise sind Nachtzug oder Bus von München aus zu empfehlen. Die Anreise ist nicht im Reisepreis enthalten. Bei der Anmeldung ist eine Anzahlung von 200,00 Euro zu überweisen.
 
@@ -56,21 +54,21 @@ Reiseleitung: Rosalie Scherlein
 
 Zum Programm:
 
-Beginn Sonntag, 12. Oktober: Bahn- und Busfahrer werden mit dem Hotelshuttle vom Bahnhof abgeholt und können das Frühstücksbuffet bis 11.00 Uhr auf der Meeresterrasse genießen, 16.00-18.00 Uhr erste Kurseinheit, 19.00 Uhr Abendessen, anschließend meditativer Tanz mit Tagesausklang
+Beginn Freitag, 17. Oktober: Bahn- und Busfahrer werden mit dem Hotelshuttle vom Bahnhof abgeholt und können das Frühstücksbuffet bis 11.00 Uhr auf der Meeresterrasse genießen, 16.00-18.00 Uhr erste Kurseinheit, 19.00 Uhr Abendessen, anschließend meditativer Tanz mit Tagesausklang
 
-Montag, 13. Oktober: Morgenimpuls mit Qi Gong (täglich), Vormittags Kurseinheit, nachmittags fakultativ je nach Wetter Bootsausflug oder Wanderung zu einer alten Dorfkirche, am Abend Tanz mit Tagesausklang
+Samstag, 18. Oktober: Morgenimpuls mit Qi Gong (täglich), Vormittags Kurseinheit, nachmittags fakultativ je nach Wetter Bootsausflug oder Wanderung zu einer alten Dorfkirche, am Abend Tanz mit Tagesausklang
 
-Dienstag, 14. und Mittwoch 15. Oktober: Vormittags Kurseinheit Tanzen bzw. einmal Führung auf den Spuren der K. u. K.- Monarchie im alten Abbazia, nachmittags Ausflug zu einem mittelalterlichen Dorf über dem Meer, abends Tanz mit Tagesausklang
+Sonntag, 19. und Montag 20. Oktober: Vormittags Kurseinheit Tanzen bzw. einmal Führung auf den Spuren der K. u. K.- Monarchie im alten Abbazia, nachmittags Ausflug zu einem mittelalterlichen Dorf über dem Meer, abends Tanz mit Tagesausklang
 
-Donnerstag, 16. Oktober: Vormittags Kurseinheit, nachmittags zur freien Verfügung, nach dem Abendessen „Meditativer Tanzabend“
+Dienstag, 21. Oktober: Vormittags Kurseinheit, nachmittags zur freien Verfügung, nach dem Abendessen „Meditativer Tanzabend“
 
-Freitag, 17. Oktober: Vormittags Tanzeinheit mit Abschluss des Kurses und Abreise
+Mittwoch, 22. Oktober: Vormittags Tanzeinheit mit Abschluss des Kurses und Abreise
 
 Wer am Abend mit dem Nachtzug oder Flixbus zurück fährt, ist noch zum Abendessen eingeladen.
 
 Änderungen vorbehalten.
 
-[Hier gibt es den Flyer zum Download.](/assets/downloads/Opatija_2025.pdf)
+[Hier gibt es den Flyer zum Download.](/assets/downloads/Opatija_zweiter_Kurs_2025.pdf)
 
 [Hier gelangen Sie zum Anmeldeformular.](/anmeldung/)
 
